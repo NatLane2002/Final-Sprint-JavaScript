@@ -1,0 +1,52 @@
+{
+    "Exercise 1": {
+      "exerciseName": "Bench Press",
+      "reps": 8,
+      "sets": 3,
+      "weightInLbs": 195,
+      "notes": "Keep back straight",
+      "equipment": {"name": "Barbell", "brand": "Rogue"},
+      "targets": ["Pectorals", "Triceps"],
+      "muscleGroup": "Chest"
+    },
+    "Exercise 2": {
+      "exerciseName": "Squats",
+      "reps": 10,
+      "sets": 3,
+      "weightInLbs": 225,
+      "notes": "Keep knees behind toes",
+      "equipment": {"name": "Barbell", "brand": "Eleiko"},
+      "targets": ["Quadriceps", "Glutes"],
+      "muscleGroup": "Legs"
+    },
+    "Exercise 3": {
+      "exerciseName": "Pull-Ups",
+      "reps": 5,
+      "sets": 3,
+      "weightInLbs": 0,
+      "notes": "Engage core",
+      "equipment": {"name": "Bodyweight", "brand": "N/A"},
+      "targets": ["Latissimus Dorsi", "Biceps"],
+      "muscleGroup": "Back"
+    },
+    "Exercise 4": {
+      "exerciseName": "Overhead Press",
+      "reps": 8,
+      "sets": 3,
+      "weightInLbs": 95,
+      "notes": "Keep core tight",
+      "equipment": {"name": "Barbell", "brand": "Rogue"},
+      "targets": ["Shoulders", "Triceps"],
+      "muscleGroup": "Shoulders"
+    },
+    "Exercise 5": {
+      "exerciseName": "Bicep Curls",
+      "reps": 12,
+      "sets": 3,
+      "weightInLbs": 25,
+      "notes": "Don't swing",
+      "equipment": {"name": "Dumbbells", "brand": "CAP"},
+      "targets": ["Biceps"],
+      "muscleGroup": "Arms"
+    }
+  }
